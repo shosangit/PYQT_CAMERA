@@ -1,0 +1,2 @@
+# PYQT_CAMERA
+基于PYQT的小相机
